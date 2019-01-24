@@ -1,0 +1,30 @@
+{
+  "name": "digital-dead-drops",
+  "version": "1.0.0",
+  "description": "Digital Dead Drops",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GingerWizards/Digital-Dead-Drops.git"
+  },
+  "keywords": [
+    "Dead",
+    "Drops",
+    "Digital",
+    "Dead",
+    "Drops"
+  ],
+  "author": "Jack Bayliss / Joshua Latham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GingerWizards/Digital-Dead-Drops/issues"
+  },
+  "homepage": "https://github.com/GingerWizards/Digital-Dead-Drops#readme"
+}
