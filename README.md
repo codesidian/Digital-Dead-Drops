@@ -15,4 +15,4 @@ Repo for digital dead drops project
 
 ### Questionable things
 - Files may cause an issue for UK hosting, and depends on what the files are etc. Don't want a lawsuit.
-- Possibly allow for text?
+- Possibly allow for text only?
